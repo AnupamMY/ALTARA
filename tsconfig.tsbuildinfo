@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/app/app.tsx","./src/components/panoramaselector.tsx","./src/data/project.ts","./src/data/rooms.ts","./src/hooks/usescenetransition.ts","./src/store/useexperiencestore.ts","./src/three/experience.tsx","./src/three/propertycamera.tsx","./src/three/propertyscenes.tsx","./src/three/windowviewscene.tsx","./vite.config.ts"],"version":"5.7.3"}
